@@ -1,5 +1,3 @@
-# Face-Recognition-using-Olivetti-Dataset
-
 # Face Recognition with Olivetti Dataset
 
 This project focuses on face recognition using the Olivetti dataset. The steps and methods utilized for face recognition in this study are outlined below.
